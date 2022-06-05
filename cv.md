@@ -36,7 +36,7 @@ Refinement, site content, editing the site on wordpress [ee16.ru](ee16.ru)\
 Bachelor-engineer of thermal power engineering ([KFU](https://kpfu.ru/)) \
 JS/FE on [rs.school](https://rs.school/) (in progress)
 ***
-English - Intermediate (B1) (according to the online test at [EFset](https://www.efset.org/))\
+English - Intermediate (B1) (according to the online test at [EFset](https://www.efset.org/))
 * Russian - native
 
 
